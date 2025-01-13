@@ -79,6 +79,10 @@ a:hover {
 h4 {
     font-size: 30px;
 }
+iframe {
+    padding: 10px;
+    margin-top: 10px;
+}
 
 /* Buttons */ 
 .btn {
