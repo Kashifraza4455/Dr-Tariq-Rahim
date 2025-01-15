@@ -477,7 +477,7 @@
 		position: relative;
 		left: 0px;
 	}
-	.paras ol li {
+	.paras ul li {
 		width: 100%;
 		font-size: 20px;
 		font-weight: 500;
@@ -489,5 +489,8 @@
 		left: 11px;
 		font-weight: bold;
 		padding: 20px;
+	}
+	.main5 img {
+		width: 100% !important;
 	}
 }
