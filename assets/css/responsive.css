@@ -473,5 +473,21 @@
 		top: -6px;
 		right: 2%;
 	}
-	
+	.paras {
+		position: relative;
+		left: 0px;
+	}
+	.paras ol li {
+		width: 100%;
+		font-size: 20px;
+		font-weight: 500;
+		padding: 3px;
+	}
+	.paras h1 {
+		font-size: 50px;
+		position: relative;
+		left: 11px;
+		font-weight: bold;
+		padding: 20px;
+	}
 }
