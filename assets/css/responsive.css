@@ -498,7 +498,12 @@
 		margin-top: 10px;
 		width: 100%;
 	}
-	.main5 a{
-		font-size: 50px;
+	.main5 a {
+        font-size: 27px;
+		position: relative;
+		bottom: 8px;
+    }
+	.main6 a{
+		font-size: 22px;
 	}
 }

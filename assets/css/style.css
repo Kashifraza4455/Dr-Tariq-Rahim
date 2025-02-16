@@ -582,10 +582,10 @@ padding: 3px;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 70px;
-    color: black;
+    font-size: 45px;
     position: relative;
     bottom: 41px;
+    text-decoration: underline;
     font-weight: bold;
     font-family: serif;
 }
@@ -593,10 +593,10 @@ padding: 3px;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 70px;
-    color: black;
+    font-size: 45px;
     position: relative;
     /* bottom: 41px; */
+    text-decoration: underline;
     font-weight: bold;
     font-family: serif;
 }
