@@ -492,10 +492,10 @@
         padding: 20px;
     }
 	.main4 h1 {
-		position: absolute;
-		top: 1%;
-		left: 13%;
-		font-size: 35px;
+        position: absolute;
+        top: 1%;
+        left: 9%;
+        font-size: 30px;
 	}
 	.main5 img {
 		width: 100% !important;
