@@ -87,7 +87,7 @@ iframe {
     margin-top: 10px;
     width: 33%;
 }
-.main5 img{
+.main7 img{
     width: 80% !important;
 }
 /* Buttons */ 
@@ -270,11 +270,11 @@ font-weight: 500;
 padding: 3px;
 
 }
-.paras h1{
-    font-size: 50px;
+.paras h1 {
+    font-size: 35px;
     position: relative;
     left: 200px;
-    font-weight: bold;
+    font-weight: 500;
     padding: 20px;
 }
 
@@ -563,6 +563,20 @@ padding: 3px;
 .section-form {
     padding-bottom: 120px;
 }
+.main7 {
+    position: relative;
+    top: 129px;
+}
+.main4 h1 {
+    position: absolute;
+    top: 2%;
+    left: 37%;
+    font-size: 35px;
+}
+section#contact {
+    position: relative;
+    top: 80px;
+}
 
 .section-form .btn {
     margin-top: 40px;
@@ -579,11 +593,10 @@ padding: 3px;
     z-index: -1;
 }
 .main5 a {
-    display: flex
-    ;
+    display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 35px;
+    font-size: 25px;
     font-weight: bold;
     font-family: serif;
     position: relative;
@@ -594,7 +607,7 @@ padding: 3px;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 45px;
+    font-size: 25px;
     font-weight: bold;
     font-family: serif;
     gap: 24px;
@@ -607,15 +620,14 @@ padding: 3px;
     border-radius: 50%;
 }
 .main5 h1 {
-    font-size: 57px;
+    font-size: 36px;
     text-align: center;
-    font-weight: bold;
+    font-weight: 500;
 }
-
 .main6 h1 {
-    font-size: 57px;
+    font-size: 35px;
     text-align: center;
-    font-weight: bold;
+    font-weight: 500;
 }
 .icon + .icon {
     margin-left: 5px;
@@ -649,10 +661,12 @@ a.icon-up-bg:hover {color: #212121;}
     color: #fff;
     text-align: center;
 }
-.main5 span{
+.main5 span {
     color: black;
+    font-weight: 500;
 }
 
 .main6 span {
     color: black;
+    font-weight: 500;
 }
