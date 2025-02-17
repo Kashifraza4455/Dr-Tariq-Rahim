@@ -583,22 +583,18 @@ padding: 3px;
     justify-content: center;
     align-items: center;
     font-size: 45px;
-    position: relative;
-    bottom: 41px;
-    text-decoration: underline;
     font-weight: bold;
     font-family: serif;
+    gap: 24px;
 }
 .main6 a {
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 45px;
-    position: relative;
-    /* bottom: 41px; */
-    text-decoration: underline;
     font-weight: bold;
     font-family: serif;
+    gap: 24px;
 }
 .icon {
     line-height: 40px;
@@ -639,4 +635,11 @@ a.icon-up-bg:hover {color: #212121;}
     line-height: 40px;
     color: #fff;
     text-align: center;
+}
+.main5 span{
+    color: black;
+}
+
+.main6 span {
+    color: black;
 }
